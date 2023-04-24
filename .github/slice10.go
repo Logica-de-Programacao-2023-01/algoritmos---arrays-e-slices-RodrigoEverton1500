@@ -12,6 +12,6 @@ func main() {
 		}
 	}
 
-	fmt.Println("O maior valor é", max)
+	fmt.Println("O maior valor é", max
 	fmt.Println("O menor valor é", min
 }
